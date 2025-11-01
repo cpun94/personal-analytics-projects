@@ -1,1 +1,2 @@
-# Super-Store-Sales
+# Data Analytics Portfolio Overview
+This repository is a portfolio of personal analytics projects with key focuses on data cleaning, exploratory data analysis, and visualization. Through these projects, I hope to improve my data analytics and data science knowledge by applying different amethodoligies and techniques. Each project's final aim is to gain insights and tell compelling narratives through visualization.    
