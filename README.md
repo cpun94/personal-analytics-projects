@@ -8,7 +8,7 @@ This repository is created primarily for the purposes of self-learning and hobby
 My personal goal through these projects is to strengthen and showcase my analytical thinking, technical skills, and storytelling ability. 
 
 ## Table of Contents
-  • [Welcome & Overview](https://github.com/cpun94/data-analytics-portfolio.git)
+  • [Welcome & Overview](README.md)
   
 ## Project Descriptions
 
