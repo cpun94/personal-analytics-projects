@@ -11,6 +11,6 @@ My personal goal through these projects is to strengthen and showcase my analyti
 • [Welcome & Overview](README.md)
 • [Project Descriptions]()
   
-## Project Descriptions
+## Projects
 
 
