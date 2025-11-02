@@ -12,7 +12,5 @@ My personal goal through these projects is to strengthen and showcase my analyti
 • [Project Descriptions]()
   
 ## Projects
-
-#### Test
-
+This section lists and summarizes each project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
 
