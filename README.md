@@ -9,6 +9,7 @@ My personal goal through these projects is to strengthen and showcase my analyti
 
 ## Table of Contents
 • [Welcome & Overview](README.md)
+• [Project Descriptions]()
   
 ## Project Descriptions
 
