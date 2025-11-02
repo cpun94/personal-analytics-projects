@@ -8,6 +8,7 @@ This repository is created primarily for the purposes self-learning and hobby an
 My personal goal through these projects is to strengthen and showcase my analytical thinking, technical skills, and storytelling ability. 
 
 ## Table of Contents
+• 
 
 ## Project Descriptions
 
