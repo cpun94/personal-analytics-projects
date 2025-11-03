@@ -14,3 +14,4 @@ My personal goal is to strengthen and showcase my analytical thinking, technical
 ## Projects
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
 
+#### Exploratory Data Analysis
