@@ -16,4 +16,5 @@ This section lists and summarizes each personal project in a short, easy to dige
 
 #### Project 1: Exploratory Data Analysis (EDA)
 Description:   
+Skills:  
 Tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)
