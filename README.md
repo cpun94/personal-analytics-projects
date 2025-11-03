@@ -5,7 +5,7 @@ Hi, I’m Chris — a data analyst  with a background in project management (PMP
 
 This repository is created primarily for the purposes of self-learning and hobby and contains a collection of analytics projects focusing on data cleaning, exploratory data analysis, and data visualization. Each project aims to uncover insights and communicate compelling narratives through visualizations. 
 
-My personal goal through these projects is to strengthen and showcase my analytical thinking, technical skills, and storytelling ability. 
+My personal goal is to strengthen and showcase my analytical thinking, technical skills, and storytelling ability. 
 
 ## Table of Contents
 • [Welcome & Overview](README.md)   
