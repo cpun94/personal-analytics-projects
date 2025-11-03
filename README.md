@@ -19,4 +19,3 @@ This section lists and summarizes each personal project in a short, easy to dige
 • Description:   
 • Skills: data cleaning, data analysis, data visualization    
 • Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
-• Result/Conclusion:  
