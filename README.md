@@ -15,9 +15,12 @@ My personal goal is to strengthen and showcase my analytical thinking, technical
 ## Projects
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders. 
 
-#### Project 1: Vancouver Housing Prices (2004-2024)
-• Goal:  
-• Description:   
+#### Project 1: Vancouver Housing Prices (2004-2024)  
+• Description: Exploratory Data Analysis (EDA)  
+• Skills: descriptive statistics, distributions, correlations, outlier detection, data visualization 
+• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
+
+#### Project 2: 
+• Description: Exploratory Data Analysis (EDA)  
 • Skills: data cleaning, data analysis, data visualization    
 • Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
-## #Exploratory Data Analysis (EDA)
