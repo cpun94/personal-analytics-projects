@@ -11,6 +11,8 @@ By the end of this analysis, the goal is to be able to answer:
   
 This dataset is from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).
 
+# Key Insights
+
 <!--## Project Structure-->
 
 <!--## Tools-->
