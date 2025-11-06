@@ -2,7 +2,9 @@
 
 In this project, we will examine Vancouver housing prices for the 20-year period between 2004-2024. This is a topic that is personally significant to me, as someone who is from Vancouver.  
 
-We will conduct Exploratory Data Analysis (EDA) including data cleaning, data transformation, and create numerical summaries and data visualizations with Python. In the end, we hope to be able to answer the following questions:   
+We will conduct Exploratory Data Analysis (EDA) including data cleaning, data transformation, and create numerical summaries and data visualizations with Python. We will use Python's Pandas for analysis and MatplotLib and Seaborn for visualization.  
+
+By the end, our goal is to be able to answer the following questions:   
   • fsdfjahsdflkahsdf  
   • fasdjlkfjasdlkfjfsdaklf  
   •
