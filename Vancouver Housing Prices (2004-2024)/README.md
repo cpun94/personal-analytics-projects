@@ -1,6 +1,6 @@
 # Project Overview
 
-This project analyzes Vancouver housing prices over a 20-year period (2004–2024). As a Vancouver local, this topic is personally meaningful as housing affordability and market trends have recently been a defining issue for our city.
+This project analyzes Vancouver housing prices over a 20-year period (2004–2024). As a local Vancouverite, this topic is personally meaningful as housing affordability and market trends have recently been a defining issue for our city.
 
 The analysis involves cleaning and transforming raw housing data, exploring key statistical patterns, and visualizing long-term price trends using Python (Pandas, Matplotlib, and Seaborn).
 
@@ -13,4 +13,6 @@ This dataset is from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouve
 
 ## Project Structure
 
-## Key Insights
+## Tools 
+
+## Key Insights 
