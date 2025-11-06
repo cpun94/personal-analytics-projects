@@ -8,11 +8,13 @@ By the end of this analysis, the goal is to be able to answer:
   • fsdfjahsdflkahsdf  
   • fasdjlkfjasdlkfjfsdaklf  
   •
-
+  
 This dataset is from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).
 
-## Project Structure
+<!--## Project Structure-->
 
-## Tools 
+<!--## Tools-->
 
-## Key Insights 
+<!--## Key Insights-->
+
+<!-- This text is hidden in the rendered Markdown. -->
