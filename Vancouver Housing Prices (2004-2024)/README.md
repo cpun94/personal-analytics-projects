@@ -1,12 +1,16 @@
 # Project Overview
 
-In this project, we will examine Vancouver housing prices for the 20-year period between 2004-2024. This is a topic that is personally significant to me, as someone who is from Vancouver.  
+This project analyzes Vancouver housing prices over a 20-year period (2004–2024). As a Vancouver local, this topic is personally meaningful as housing affordability and market trends have recently been a defining issue for our city.
 
-We will conduct Exploratory Data Analysis (EDA) including data cleaning, data transformation, and create numerical summaries and data visualizations with Python. We will use Python's Pandas for analysis and MatplotLib and Seaborn for visualization.  
+The analysis involves cleaning and transforming raw housing data, exploring key statistical patterns, and visualizing long-term price trends using Python (Pandas, Matplotlib, and Seaborn).
 
-By the end, our goal is to be able to answer the following questions:   
+By the end of this analysis, the goal is to be able to answer:   
   • fsdfjahsdflkahsdf  
   • fasdjlkfjasdlkfjfsdaklf  
   •
 
 This dataset is from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).
+
+## Project Structure
+
+## Key Insights
