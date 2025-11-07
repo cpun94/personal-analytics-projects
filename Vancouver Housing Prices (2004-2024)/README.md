@@ -11,9 +11,9 @@ By the end of this analysis, the goal is to be able to answer:
   
 This dataset is a publically available dataset from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).  
 
-# Dataset Description
+## Dataset Description
 
-# Key Insights
+## Key Insights
 
 <!--## Project Structure-->
 
