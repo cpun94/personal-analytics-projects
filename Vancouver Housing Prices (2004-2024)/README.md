@@ -9,7 +9,9 @@ By the end of this analysis, the goal is to be able to answer:
   • fasdjlkfjasdlkfjfsdaklf  
   •
   
-This dataset is from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).
+This dataset is a publically available dataset from [Kaggle](https://www.kaggle.com/datasets/jennyzzhu/vancouver-house-prices-for-past-20-years).  
+
+# Dataset Description
 
 # Key Insights
 
