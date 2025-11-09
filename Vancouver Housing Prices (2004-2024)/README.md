@@ -14,7 +14,7 @@ This dataset is a publically available on [Kaggle](https://www.kaggle.com/datase
 ## Dataset Description
 The dataset contains over 3,000 synthetic real estate transactions in the metropolitan Vancouver area from 2004 to 2024.  
 
-Key columns include: Neighborhood, Year, Season, Property Type, Bedrooms, Bathrooms, Year Built, Square Footage (Land), and Price.
+Key columns include: Neighborhood, City, Year, Season, Property Type, Bedrooms, Bathrooms, Year Built, Square Footage (Land), and Price.
 
 A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
 
