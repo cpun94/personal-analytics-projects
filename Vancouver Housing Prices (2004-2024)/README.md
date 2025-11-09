@@ -14,6 +14,7 @@ This dataset is a publically available dataset from [Kaggle](https://www.kaggle.
 ## Dataset Description
 
 ## Key Insights
+Key findings and visualizations will be summarized here once analysis is complete.
 
 <!--## Project Structure-->
 
