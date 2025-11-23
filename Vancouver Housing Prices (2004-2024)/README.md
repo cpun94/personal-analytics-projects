@@ -22,6 +22,10 @@ A separate reference table containing over 40 neighbourhoods in metropolitan Van
 ## Key Insights
 Key findings and visualizations will be summarized here once analysis is complete.
 
+## Next Steps
+
+
+
 <!--## Project Structure-->
 
 <!--## Tools-->
