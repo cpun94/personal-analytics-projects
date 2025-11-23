@@ -22,7 +22,7 @@ A separate reference table containing over 40 neighbourhoods in metropolitan Van
 ## Key Insights
 - Total sales volume doubled with average sales price also more than doubling  
 - Spring season displayed the highest sales volume
-- Vancouver, Surrey and Burnaby were the most popular cities to purchae real estate 
+- Vancouver, Surrey and Burnaby were the most popular cities to purchase real estate 
 - North Vancouver, Burnaby, and West Vancouver showed highest growth between 2004 - 2024 using sales revenue growth % as the primary evaluation metric
 <!--- Properties built after 2010 commanded a higher premium than older homes-->
 <!--Key findings and visualizations will be summarized here once analysis is complete.-->
