@@ -20,7 +20,7 @@ Key columns include: ``Neighborhood``, ``City``, ``Year``, ``Season``, ``Propert
 A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
 
 ## Key Insights
-Key findings and visualizations will be summarized here once analysis is complete.
+<!--Key findings and visualizations will be summarized here once analysis is complete.-->
 
 ## Next Steps
 - Incorporate external datasets (interest rates, immigration data, construction activity) to integrate, analyse and draw further conclusions   
