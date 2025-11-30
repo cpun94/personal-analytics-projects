@@ -20,17 +20,17 @@ Key columns include: ``Neighborhood``, ``City``, ``Year``, ``Season``, ``Propert
 A separate reference table containing over 40 neighbourhoods in metropolitan Vancouver along with the cities they belong to is also provided. Relevant details will be joined to the primary real estate transactions dataset during the data preparation phase.   
 
 ## Key Insights
-- Total sales volume doubled with average sales price also more than doubling
-- COVID-19 pandemic and low interest rates fueled real estate activity between 2020 and 20222  
-- Vancouver was the most popular city to purchase real estate and Downtown Vancouver & New Westminster were most popular neighbourhoods to purchase property 
-- Spring & Summer were most active sales periods, as displayed by the numerous peaks in sales volume
+- Total sales volume and average home prices more than doubled over the 20-year period.
+- Real estate activity peaked during 2020-2022, a period largely influenced by the COVID-19 pandemic and low interest rates.  
+- Vancouver was the most popular city for real estate, with Downtown Vancouver & Downtown New Westminster ranking as the top neighbourhoods.     
+- Spring & Summer consisntely showed the highest sales activity within the year with clear seasonal peaks observed across multiple years  
 <!--- Properties built after 2010 commanded a higher premium than older homes-->
 <!--Key findings and visualizations will be summarized here once analysis is complete.-->
 
 ## Next Steps
 - Incorporate external datasets (interest rates, immigration data, construction activity) to integrate, analyse and draw further conclusions   
 - Create interactive dashboards in Power BI or Tableau to visualize predictions, seasonal trends, factors that may influence real estate sales   
-- Apply predictive analytics techniques such as linear regression or time-series forecasting to predict potential future selling price  
+- Apply predictive analytics techniques such as linear regression or time-series forecasting to predict potential future selling price and understand the relationship between different independent variables
 
 <!--## Project Structure-->
 
