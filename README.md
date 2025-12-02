@@ -19,7 +19,7 @@ This section lists and summarizes each personal project in a short, easy to dige
 
 #### Project 1: Vancouver Housing Prices (2004-2024)
 - Description: Exploratory Data Analysis (EDA)  
-- Skills: descriptive statistics, data analysis, and data visualization   
+- Skills: descriptive statistics, data cleaning, data exploration, and data visualization   
 - Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
 
 <!--#### Project 2:--> 
