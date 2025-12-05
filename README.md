@@ -13,6 +13,7 @@ This portfolio is a work in progress, and new projects will be added as I expand
 - [Welcome & Overview](README.md)   
 - [Projects](https://github.com/cpun94/data-analytics-portfolio/tree/main#projects)  
   - [Project 1: Vancouver Housing Prices (2004-2024)](https://github.com/cpun94/data-analytics-portfolio/tree/main/Vancouver%20Housing%20Prices%20(2004-2024)#project-overview-vancouver-housing-prices-2004-2024)
+  - [Project 2: ]
   
 ## Projects
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders under the table of contents. 
@@ -20,7 +21,12 @@ This section lists and summarizes each personal project in a short, easy to dige
 #### Project 1: Vancouver Housing Prices (2004-2024)
 - Description: Exploratory Data Analysis (EDA)  
 - Skills: descriptive statistics, data cleaning, data exploration, and data visualization   
-- Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)  
+- Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)
+  
+<!--#### Project 2:--> 
+<!--• Description: Exploratory Data Analysis (EDA)-->
+<!--• Skills: data cleaning, data analysis, data visualization-->  
+<!--• Technology tools: data cleaning, data analysis, data visualization-->  
 
 <!--#### Project 2:--> 
 <!--• Description: Exploratory Data Analysis (EDA)-->
