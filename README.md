@@ -19,7 +19,7 @@ This portfolio is a work in progress, and new projects will be added as I expand
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders under the table of contents. 
 
 #### Project 1: Vancouver Housing Prices (2004-2024)
-- Description: Exploratory Data Analysis (EDA)  
+- Description: Exploratory Data Analysis (EDA) on Vancouver real estate sales between 2004 and 2024. 
 - Skills: descriptive statistics, data preparation, data exploration, and data visualization   
 - Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)
   
