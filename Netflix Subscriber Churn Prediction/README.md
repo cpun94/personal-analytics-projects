@@ -21,7 +21,9 @@ Key columns include:
 
 *Additional features will be detailed in later sections.*
 
-<!---## Key Insights-->
+## Key Insights
+*This section is currently in progress and will be updated shortly.*
+
 <!---- Total sales volume and average home prices more than doubled over the 20-year period.-->
 <!---- Real estate activity peaked during 2020-2022, a period largely influenced by the COVID-19 pandemic and low interest rates.-->  
 <!---- Vancouver was the most popular city for real estate, with Downtown Vancouver & Downtown New Westminster ranking as the top neighbourhoods.-->     
@@ -30,6 +32,4 @@ Key columns include:
 <!--Key findings and visualizations will be summarized here once analysis is complete.-->
 
 ## Next Steps
-- Incorporate external datasets (interest rates, immigration data, construction activity) to integrate, analyse and draw further conclusions   
-- Create interactive dashboards in Power BI or Tableau to visualize predictions, seasonal trends, factors that may influence real estate sales   
-- Apply predictive analytics techniques such as linear regression or time-series forecasting to predict potential future selling price and understand the relationship between different independent variables
+*This section is currently in progress and will be updated shortly.*
