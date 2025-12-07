@@ -13,7 +13,7 @@ This portfolio is a work in progress, and new projects will be added as I expand
 - [Welcome & Overview](README.md)   
 - [Projects](https://github.com/cpun94/data-analytics-portfolio/tree/main#projects)  
   - [Project 1: Vancouver Housing Prices (2004-2024)](https://github.com/cpun94/data-analytics-portfolio/tree/main/Vancouver%20Housing%20Prices%20(2004-2024)#project-overview-vancouver-housing-prices-2004-2024)
- <!-- - [Project 2: ]--> 
+ <!-- - [Project 2: Netflix Subscriber Churn Prediction](https://github.com/cpun94/data-analytics-portfolio/tree/1185121667edc8859aa4da185ffe57aded23cee5/Netflix%20Subscriber%20Churn%20Prediction)--> 
   
 ## Projects
 This section lists and summarizes each personal project in a short, easy to digest format for readers. For more detailed information on each project, please visit specific project folders under the table of contents. 
