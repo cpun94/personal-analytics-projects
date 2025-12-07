@@ -21,12 +21,12 @@ This section lists and summarizes each personal project in a short, easy to dige
 #### Project 1: Vancouver Housing Prices (2004-2024)
 - Description: Exploratory Data Analysis (EDA) on Vancouver real estate sales between 2004 and 2024. 
 - Skills: descriptive statistics, data preparation, data exploration, and data visualization   
-- Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)
+- Tools & technologies: Python (NumPy, Pandas, and MaplotLib)
   
-<!--#### Project 2:--> 
-<!--• Description: Machine Learning: Churn Prediction -->
-<!--• Skills: data preparation, data modeling, feature engineering, and communication-->  
-<!--• Technology tools: Python (NumPy, Pandas, MaplotLib, SeaBorn)-->  
+#### Project 2: Netflix Subscriber Churn Prediction
+• Description: Building and evaluating different machine learning models, balancing model accuracy and model complexity, in order to predict subscriber churn using a dataset of over 5,000 records.  
+• Skills: machine learning, feature engineering, model evaluation , data preparation, data modeling, and communication  
+• Tools & technologies: Python (NumPy, Pandas, MaplotLib, SeaBorn, & Scikit-learn) 
 
 <!--#### Project 2:--> 
 <!--• Description: Exploratory Data Analysis (EDA)-->
