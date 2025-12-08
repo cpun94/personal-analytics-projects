@@ -18,8 +18,10 @@ The dataset contains over 5,000 synthetic customer records, representing subscri
 Key columns include: 
   - ``customer_id``
   - ``Churned``
-
 *Additional features will be detailed in later sections.*
+
+## Project Structure
+*To be added once final project files are organized.*
 
 ## Objective 
 The goal of this project is to develop a classification machine-learning model that predicts subscriber churn using historical customer behaviour data. To ensure the model is useful for decision-making, the focus will be on both interpretability and performance, guided by appropriate model evaluation metrics.  
