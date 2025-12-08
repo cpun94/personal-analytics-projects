@@ -25,11 +25,11 @@ Key columns include:
 The main objective of this project is to develop a machine learning based on historical churn information that is useful for decision making. For the model to be "useful", an emphasis will be placed on interpretability and accurate, as defined by model evaluation measures. 
 
 ## Approach
-1. Data Cleaning & Preprocessing: loading, cleaning, and preparing the data by addressing outliers, filling in missing values, removing duplicates.
-2. Data Visualization: analyze variables, examine potential relationships and correlations between variables through visualizations  
-3. Feature Engineering: creating additional features from existing features
-4. Model Development: create, train, test, select, and refine machine learning model
-5. Model Evaluation & Interpretation: data & model evaluation, model benchmarking 
+1. **Data Cleaning & Preprocessing:** loading, cleaning, and preparing the data by addressing outliers, filling in missing values, removing duplicates.
+2. **Data Visualization:** analyze variables, examine potential relationships and correlations between variables through visualizations  
+3. **Feature Engineering:** creating additional features from existing features
+4. **Model Development:** create, train, test, select, and refine machine learning model
+5. **Model Evaluation & Interpretation:** data & model evaluation, model benchmarking 
 
 ## Key Insights
 *This section is currently in progress and will be updated shortly.*
