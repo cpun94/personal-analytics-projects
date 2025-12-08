@@ -30,6 +30,7 @@ Vancouver-Housing-Prices-EDA/
 ├── notebooks/
 │ └── vancouver_house_prices_EDA_notebook.ipynb
 │
+├── README.md
 ├── vancouver_house_prices_2004_to_2024_notebook.ipynb
 ```
 
